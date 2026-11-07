@@ -10,9 +10,17 @@ Now learning to put an AI layer on top without losing my grip on the backend.
 
 <br/>
 
-[Hiring snapshot](#hiring-snapshot) &nbsp;·&nbsp; [Now building](#now-building) &nbsp;·&nbsp; [Selected work](#selected-work) &nbsp;·&nbsp; [Toolkit](#toolkit) &nbsp;·&nbsp; [Contact](#contact)
+<img src="./assets/marquee.svg" alt="JavaScript, React, Node.js, Express, MongoDB, REST APIs, JWT, Gemini API, D3.js, C++, TypeScript, Redis, Docker" width="100%"/>
+
+<br/>
+
+[Snapshot](#hiring-snapshot) &nbsp;·&nbsp; [Now building](#now-building) &nbsp;·&nbsp; [Work](#selected-work) &nbsp;·&nbsp; [Toolkit](#toolkit) &nbsp;·&nbsp; [Contact](#contact)
 
 </div>
+
+<br/>
+
+<img src="./assets/terminal.svg" alt="shashank.config.js: role, current work, strengths, open to internships and placement roles" width="100%"/>
 
 <br/>
 
@@ -100,6 +108,14 @@ Also in the archive: [ai-fullstack-journey](https://github.com/Shashank520104/ai
 | **Comfortable** | `Redux Toolkit` `Tailwind` `D3.js` `Postman` `Gemini API` `Prompt engineering` `Java` `C` |
 | **Levelling up** | `TypeScript` `SQL` `Redis` `Docker` `Microservices` `RAG` |
 | **Fundamentals** | `DSA (C++)` `OOP` `Operating Systems` `DBMS` `Computer Networks` |
+
+<br/>
+
+### Contribution trail
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shashank520104/Shashank520104/output/github-snake-dark.svg" alt="Contribution graph eaten by a snake" width="100%"/>
+</div>
 
 <br/>
 
