@@ -1,84 +1,118 @@
 <div align="center">
-  
-# ⚡ Shashank Kumar
-**Software Engineer | Full-Stack Developer (MERN) | System Architecture**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shashank520104&color=111111&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Shashank520104)
+<img src="./assets/header.svg" alt="Shashank Kumar, Full Stack Developer" width="100%"/>
 
-*Building scalable web platforms, designing clean MVC architectures, and integrating AI models into production-ready software.*
+<br/>
+
+**I build MERN applications that hold up past the demo: JWT auth, role-based access, clean REST APIs.**
+<br/>
+Now learning to put an AI layer on top without losing my grip on the backend.
+
+<br/>
+
+[Hiring snapshot](#hiring-snapshot) &nbsp;·&nbsp; [Now building](#now-building) &nbsp;·&nbsp; [Selected work](#selected-work) &nbsp;·&nbsp; [Toolkit](#toolkit) &nbsp;·&nbsp; [Contact](#contact)
 
 </div>
 
-<br />
-
-## 🚀 Executive Summary
-
-- 💻 **Current Focus:** Engineering high-performance MERN stack applications with strict Model-View-Controller (MVC) paradigms and exploring containerized deployments via Docker.
-- 🎓 **Academics:** Pursuing Computer Science & Engineering (AI/ML) at Bennett University.
-- 🧠 **Problem Solving:** Actively grinding C++ Data Structures & Algorithms (Two-Pointer, DP, Graphs) on [LeetCode (ShAshAnK520)](https://leetcode.com/u/ShAshAnK520/).
-- 🏆 **Leadership:** Translating on-field discipline as University Cricket Captain into structured, sprint-based software project execution.
-
-<br />
-
-## ⚙️ Technical Arsenal
-
-<details open>
-<summary><b>Frontend & UI</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</details>
 
-<details open>
-<summary><b>Backend & Databases</b></summary>
+### Hiring snapshot
+
+| | |
+|---|---|
+| **Looking for** | Full Stack / Backend / AI-integration internships and placement roles |
+| **Right now** | Full Stack Intern at BAOIAM Innovations (Oct 2026 – present) · B.Tech CSE, Bennett University |
+| **Strongest at** | End-to-end MERN apps · JWT auth + role-based authorization · REST API design · Gemini API integration |
+| **Shipped** | Cognix (mood-adaptive learning platform) · AI Text Assistant · D3.js analytics dashboards during my Zidio internship |
+| **Problem solving** | C++ for DSA · arrays, trees, heaps, hashing, recursion, greedy, DP |
+| **Résumé** | [Download PDF](./assets/Shashank_Kumar_Resume.pdf) |
+
 <br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
 
-<details open>
-<summary><b>Languages & Infrastructure</b></summary>
+<img src="./assets/ledger.svg" alt="CGPA 8.55 · 228+ DSA problems · LeetCode rating 1420 · 2 internships" width="100%"/>
+
 <br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</details>
 
-<br />
+### Now building
 
-## 🏗️ Flagship Architecture & Projects
+<img src="./assets/forge.svg" alt="FITFORGE: a 90-day backend and AI sprint" width="100%"/>
 
-*   **CareSense AI:** A comprehensive health and lifestyle risk assessment platform bridging AI/ML models with a robust MERN backend.
-*   **LexLingua (SIH26088):** A Multilingual Cooperative Legal Assistant conceptualized for the Smart India Hackathon, focusing on complex data parsing and user-centric legal flows.
-*   **Executive Portfolio Platform:** A minimalist, custom-built developer portfolio featuring smooth animations, visitor logging, and strict MVC server logic.
+<br/>
 
-<br />
+**FITFORGE** is the project I'm using to learn backend the hard way. It starts from raw Node, grows into Express, MongoDB and auth, then splits into services with Redis and Docker, and finishes with an LLM / RAG layer.
 
-## 📊 GitHub Analytics
+The rule for the first month: I should be able to trace a request from the client to the database and debug it without asking an AI to explain it to me.
 
-<div align="center">
-  <a href="https://github.com/Shashank520104">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shashank520104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shashank's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Shashank520104">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank520104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
+[Follow the repo →](https://github.com/Shashank520104/FITFORGE)
 
-<br />
+<br/>
 
-## 📬 Connect & Collaborate
+### Selected work
 
-[![Email](https://img.shields.io/badge/05shashankkr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:05shashankkr@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ShAshAnK520/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-<div align="center">
-  <i>Architecting clean logic. Lifting heavy code.</i>
-</div>
+**Cognix**<br/>
+Mood-adaptive learning platform. Quiz modules, topic management and a progress dashboard for learners and admins, behind JWT auth with role-based authorization.<br/>
+<sub>`React` `Node` `Express` `MongoDB Atlas` `Tailwind`</sub><br/>
+[Repository →](https://github.com/Shashank520104/Cognix)
+
+</td>
+<td width="50%" valign="top">
+
+**AI Text Assistant**<br/>
+Conversational assistant on the Gemini API with streamed responses and async error recovery for unreliable networks.<br/>
+<sub>`React` `Express` `Gemini API`</sub><br/>
+[Repository →](https://github.com/Shashank520104?tab=repositories&q=assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**CareSense AI**<br/>
+Lifestyle risk-assessment app with an ML model behind a MERN backend. Built with a team of three.<br/>
+<sub>`MERN` `ML`</sub><br/>
+[Repository →](https://github.com/Shashank520104?tab=repositories&q=caresense)
+
+</td>
+<td width="50%" valign="top">
+
+**Cognifyz internship tasks**<br/>
+Eight full-stack tasks from the Cognifyz Full Stack Development internship, kept as a reviewable record.<br/>
+<sub>`Node` `EJS`</sub><br/>
+[Repository →](https://github.com/Shashank520104/Cognifyz)
+
+</td>
+</tr>
+</table>
+
+Also in the archive: [ai-fullstack-journey](https://github.com/Shashank520104/ai-fullstack-journey) (my learning log for AI tooling) · [Project-Sportivio](https://github.com/Shashank520104/Project-Sportivio) · [WebVerse](https://github.com/Shashank520104/WebVerse)
+
+<br/>
+
+### Toolkit
+
+| Level | Tools |
+|---|---|
+| **Daily** | `JavaScript` `React` `Node.js` `Express` `MongoDB` `REST APIs` `JWT` `Git` |
+| **Comfortable** | `Redux Toolkit` `Tailwind` `D3.js` `Postman` `Gemini API` `Prompt engineering` `Java` `C` |
+| **Levelling up** | `TypeScript` `SQL` `Redis` `Docker` `Microservices` `RAG` |
+| **Fundamentals** | `DSA (C++)` `OOP` `Operating Systems` `DBMS` `Computer Networks` |
+
+<br/>
+
+### Off the keyboard
+
+I captain my university cricket team. I run projects the same way: clear roles, short sprints, and an honest review after every one.
+
+<br/>
+
+### Contact
+
+[**Email**](mailto:05shashankkr@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) &nbsp;·&nbsp; [**LeetCode**](https://leetcode.com/u/ShAshAnK520/) &nbsp;·&nbsp; [**Résumé**](./assets/Shashank_Kumar_Resume.pdf)
+
+<br/>
+
+<img src="./assets/footer.svg" alt="Architecting clean logic. Lifting heavy code." width="100%"/>
