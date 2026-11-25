@@ -1,0 +1,39 @@
+name: Update Language Radar & Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_radar.py"
+      - ".github/workflows/update-radar.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate animated radar SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_radar.py --username "${{ github.repository_owner }}" --output assets/radar.svg
+
+      - name: Commit updated radar SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/radar.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update animated language radar & activity stats"
+            git push
+          fi
