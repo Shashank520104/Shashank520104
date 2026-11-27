@@ -15,7 +15,7 @@
   <clipPath id="barClip0"><rect x="363" y="108.0" width="289.0" height="4" rx="2"/></clipPath>
 <clipPath id="barClip1"><rect x="363" y="150.0" width="100.1" height="4" rx="2"/></clipPath>
 <clipPath id="barClip2"><rect x="363" y="192.0" width="99.1" height="4" rx="2"/></clipPath>
-<clipPath id="barClip3"><rect x="363" y="234.0" width="61.2" height="4" rx="2"/></clipPath>
+<clipPath id="barClip3"><rect x="363" y="234.0" width="62.8" height="4" rx="2"/></clipPath>
 <clipPath id="barClip4"><rect x="363" y="276.0" width="47.0" height="4" rx="2"/></clipPath>
 </defs>
 
@@ -41,20 +41,20 @@
 </g>
 
 <!-- Pulsing radar polygon -->
-<polygon points="172.0,105.0 216.8,170.5 199.5,222.9 150.4,214.8 141.3,175.0" fill="#00f5c4" fill-opacity="0.25" stroke="#00f5c4" stroke-width="2" filter="url(#glow)">
-  <animate attributeName="points" values="172.0,105.0 216.8,170.5 199.5,222.9 150.4,214.8 141.3,175.0;172.0,113.0 212.3,171.9 196.8,219.1 152.5,211.8 144.4,176.0;172.0,105.0 216.8,170.5 199.5,222.9 150.4,214.8 141.3,175.0" dur="3.6s" repeatCount="indefinite"/>
+<polygon points="172.0,105.0 216.8,170.5 199.5,222.9 150.1,215.2 141.3,175.0" fill="#00f5c4" fill-opacity="0.25" stroke="#00f5c4" stroke-width="2" filter="url(#glow)">
+  <animate attributeName="points" values="172.0,105.0 216.8,170.5 199.5,222.9 150.1,215.2 141.3,175.0;172.0,113.0 212.3,171.9 196.8,219.1 152.3,212.2 144.4,176.0;172.0,105.0 216.8,170.5 199.5,222.9 150.1,215.2 141.3,175.0" dur="3.6s" repeatCount="indefinite"/>
   <animate attributeName="fill-opacity" values="0.20;0.36;0.20" dur="3.6s" repeatCount="indefinite"/>
 </polygon>
 
 <text x="172.0" y="95.0" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" font-weight="400">TypeScript</text><text x="259.5" y="160.6" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" font-weight="400">JavaScript</text><text x="226.1" y="269.4" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" font-weight="400">CSS</text><text x="117.9" y="269.4" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" font-weight="400">Python</text><text x="84.5" y="160.6" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" font-weight="400">EJS</text>
-<circle cx="172.0" cy="105.0" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle><circle cx="216.8" cy="170.5" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.35s" repeatCount="indefinite"/></circle><circle cx="199.5" cy="222.9" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.70s" repeatCount="indefinite"/></circle><circle cx="150.4" cy="214.8" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="1.05s" repeatCount="indefinite"/></circle><circle cx="141.3" cy="175.0" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="1.40s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="1.40s" repeatCount="indefinite"/></circle>
+<circle cx="172.0" cy="105.0" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle><circle cx="216.8" cy="170.5" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.35s" repeatCount="indefinite"/></circle><circle cx="199.5" cy="222.9" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.70s" repeatCount="indefinite"/></circle><circle cx="150.1" cy="215.2" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="1.05s" repeatCount="indefinite"/></circle><circle cx="141.3" cy="175.0" r="3.5" fill="#00f5c4"><animate attributeName="r" values="3;5.2;3" dur="2.4s" begin="1.40s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="1.40s" repeatCount="indefinite"/></circle>
 
 <text x="28" y="296" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#9ca3af" font-weight="400">Code proportion by language, square-root scale</text>
 
 <!-- Right Card: Top Languages -->
 <text x="363" y="38" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#00f5c4" font-weight="600">Top Languages</text>
 <g clip-path="url(#cl)">
-  <rect x="363.0" y="56" width="140.0" height="8" fill="#4d8dff"/><rect x="503.0" y="56" width="48.5" height="8" fill="#e6ff2e"/><rect x="551.5" y="56" width="48.0" height="8" fill="#ff5dc8"/><rect x="599.6" y="56" width="29.7" height="8" fill="#a259ff"/><rect x="629.2" y="56" width="22.8" height="8" fill="#00f5c4"/>
+  <rect x="363.0" y="56" width="139.7" height="8" fill="#4d8dff"/><rect x="502.7" y="56" width="48.4" height="8" fill="#e6ff2e"/><rect x="551.0" y="56" width="47.9" height="8" fill="#ff5dc8"/><rect x="598.9" y="56" width="30.4" height="8" fill="#a259ff"/><rect x="629.3" y="56" width="22.7" height="8" fill="#00f5c4"/>
 </g>
 <g>
 <circle cx="369" cy="94.0" r="5" fill="#4d8dff"/>
@@ -89,11 +89,11 @@
 </g><g>
 <circle cx="369" cy="220.0" r="5" fill="#a259ff"/>
 <text x="382" y="224.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#ffffff" font-weight="500">Python</text>
-<text x="652" y="224.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#00f5c4" font-weight="500">9.6%</text>
+<text x="652" y="224.0" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#00f5c4" font-weight="500">9.8%</text>
 <rect x="363" y="234.0" width="289" height="4" rx="2" fill="#1f1f26"/>
-<rect x="363" y="234.0" width="61.2" height="4" rx="2" fill="#a259ff"/>
+<rect x="363" y="234.0" width="62.8" height="4" rx="2" fill="#a259ff"/>
 <rect x="363" y="234.0" width="36" height="4" rx="2" fill="#ffffff" fill-opacity="0.55" clip-path="url(#barClip3)">
-  <animate attributeName="x" values="323;434.23497844155935" dur="2.8s" begin="1.35s" repeatCount="indefinite"/>
+  <animate attributeName="x" values="323;435.8373613427535" dur="2.8s" begin="1.35s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;0.75;0" dur="2.8s" begin="1.35s" repeatCount="indefinite"/>
 </rect>
 </g><g>
@@ -115,7 +115,7 @@
 <line x1="176" y1="338" x2="176" y2="386" stroke="#ffffff" stroke-opacity="0.2"/>
 
 <text x="193" y="350" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#d1d5db" font-weight="400">Commits (last year)</text>
-<text x="193" y="382" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#00f5c4" font-weight="600">192</text>
+<text x="193" y="382" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#00f5c4" font-weight="600">193</text>
 <line x1="341" y1="338" x2="341" y2="386" stroke="#ffffff" stroke-opacity="0.2"/>
 
 <text x="358" y="350" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#d1d5db" font-weight="400">Pull requests</text>
